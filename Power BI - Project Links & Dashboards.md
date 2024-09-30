@@ -8,4 +8,4 @@ See the Full Sales Analytics Dashboard here : [Power Bi Link](https://app.powerb
 
 See the Full Sales Analytics Dashboard here : [Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiNTg2Njg2NmYtMGE1Zi00NmZmLTllNDYtZDgxYWYzZDVkYjJkIiwidCI6IjVmMTZmMzBiLTJjZDMtNGNiMS1hNDEyLTA5MDEwNGUwZTQ4NiJ9)
 
-![Netflix Main Dashboard](https://github.com/bilalahmadk/Power-BI-Projects/blob/486663ef6145f5259c78c0ae53260d9dbdbe7574/Screenshot%202024-09-30%20155600.png)
+![Netflix Main Dashboard](https://github.com/bilalahmadk/Power-BI-Projects/blob/324a0c12f782f06186327b78b94046eb3479de7a/netflix%20new%20summary.png)

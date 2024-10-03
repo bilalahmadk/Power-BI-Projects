@@ -1,4 +1,4 @@
-# HOSPITAL WAIT LIST ANALYSIS
+# HOSPITAL WAITING LIST ANALYSIS
 
 See the Full Sales Analytics Dashboard here : [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiYWZmNDRiMzMtYmMxYS00ZmE4LTk2OWItNDNhYjRiNjU4MTlhIiwidCI6IjVmMTZmMzBiLTJjZDMtNGNiMS1hNDEyLTA5MDEwNGUwZTQ4NiJ9)
 

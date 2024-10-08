@@ -13,6 +13,17 @@ See the Full Sales Analytics Dashboard here : [Power Bi Link](https://app.powerb
 
 ![Main Dashboard](https://github.com/bilalahmadk/Power-BI-Projects/blob/97fda8a845010f51ee47f4b5d499532074f4a3fb/Awesome%20Chocolates%20Analytics.png)
 
+
+
+# SUPERSTORE - SALES INSIGHTS & FORECASTING
+
+See the Full Sales Analytics Dashboard here : [Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiZTMyMmNkMjktZTQ2ZC00MzZkLTllOTktMGRlNzUzNTgxOTIyIiwidCI6IjVmMTZmMzBiLTJjZDMtNGNiMS1hNDEyLTA5MDEwNGUwZTQ4NiJ9)
+
+![main Dashboard](https://github.com/bilalahmadk/Power-BI-Projects/blob/1173bb5176d56be030443a5f062911df06f29fc7/Screenshot%202024-10-08%20140929.png)
+![Sales Forecast](https://github.com/bilalahmadk/Power-BI-Projects/blob/1173bb5176d56be030443a5f062911df06f29fc7/Screenshot%202024-10-08%20141133.png)
+
+
+
 # NETFLIX - MOVIES AND TV SHOWS SUMMARY
 
 See the Full Sales Analytics Dashboard here : [Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiNTg2Njg2NmYtMGE1Zi00NmZmLTllNDYtZDgxYWYzZDVkYjJkIiwidCI6IjVmMTZmMzBiLTJjZDMtNGNiMS1hNDEyLTA5MDEwNGUwZTQ4NiJ9)

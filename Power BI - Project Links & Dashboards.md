@@ -24,6 +24,14 @@ See the Full Sales Analytics Dashboard here : [Power Bi Link](https://app.powerb
 
 
 
+# HR - ATTRITION ANALYSIS
+
+See the Full Sales Analytics Dashboard here : [Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiMDRhOTY2YjItZmVkYS00ZDFkLTlkMjctZjRkNTZkNmRlZmQ3IiwidCI6IjVmMTZmMzBiLTJjZDMtNGNiMS1hNDEyLTA5MDEwNGUwZTQ4NiJ9)
+
+![main Dashboard](https://github.com/bilalahmadk/Power-BI-Projects/blob/1ccf26e4c6c1db7116164998a901eb361dfa0bf9/HR%20ATTRITION.png)
+
+
+
 # NETFLIX - MOVIES AND TV SHOWS SUMMARY
 
 See the Full Sales Analytics Dashboard here : [Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiNTg2Njg2NmYtMGE1Zi00NmZmLTllNDYtZDgxYWYzZDVkYjJkIiwidCI6IjVmMTZmMzBiLTJjZDMtNGNiMS1hNDEyLTA5MDEwNGUwZTQ4NiJ9)
